@@ -13,3 +13,4 @@ pnpm dev
 
 ## Deploy
 
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/1FRION)
